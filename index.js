@@ -5,7 +5,7 @@ $(document).ready(function () {
     var imageArray = { images: [
         {"file": "3.jpg"},
         {"file": "4.jpg"},
-        {"file": "5.jpg"},
+        {"file": "5.jpg", "colorCount": "5"},
         {"file": "logo1.png"},
         {"file": "icon1.png", "colorCount": "4", "class": "fbIcon"}
     ]};
